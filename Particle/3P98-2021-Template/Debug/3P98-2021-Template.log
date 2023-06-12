@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(122,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(123,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(124,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(163,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(211,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(335,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(336,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(357,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(358,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(364,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(423,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(433,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(508,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(514,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(533,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Source.cpp(536,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3P98-2021-Template.vcxproj -> C:\Users\SO19HN\Downloads\Particle\Particle\3P98-2021-Template\Debug\3P98-2021-Template.exe

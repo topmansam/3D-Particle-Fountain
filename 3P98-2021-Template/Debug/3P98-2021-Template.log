@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(120,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(121,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(122,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(162,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(204,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(322,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(323,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(344,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(345,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(353,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(413,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(423,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(492,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(498,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(517,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Source.cpp(520,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3P98-2021-Template.vcxproj -> C:\Users\SO19HN\Downloads\Particle\3P98-2021-Template\Debug\3P98-2021-Template.exe
